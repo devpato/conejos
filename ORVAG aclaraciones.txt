@@ -1,7 +1,2 @@
-las imagenes que se muestran al principio son imagenes muy grande
-botas
-guante ajustar tamano 
 descripcion tamano zoom
-pantuflas
-sombreros ajustar tamanos
-ajustar segundos en pagina principal 5 segundos*
+
